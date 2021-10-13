@@ -1,5 +1,7 @@
 # HW Week 1 Day 3: JS Variables
 
+* [Solution](https://github.com/Tuwaiq-1000-JS-al-Baha/Tuwaiq-1000-JS-al-Bahah-main/tree/master/week1/day3/js_variables_hw)
+
 ### The Geometrizer
 Calculate properties of a circle, using the definitions here.
 
