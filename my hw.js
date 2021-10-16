@@ -1,9 +1,10 @@
-let radius = 30
+let radius = 1
+
 let circumference = 2 * 3.14 * radius
+
+console.log("the circumference is "+ circumference)
+
+
 let area = radius * radius * 3.14
-console.log("Store a" + radius + "into a variable." + " Calculate the " + circumference + " based on the " + radius + " , " + "and output The circumference is NN " + "Calculate the area based on the " + radius + "and output The" + circumference +"is NN."+" Calculate the "+ area +" based on the "+ radius +"," + " and output " + "The" + area +"isNN") 
-
-
-let celsius temperature = (10-32)/1.8 
-
+console.log("the area is "+area)
 
